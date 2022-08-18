@@ -33,7 +33,7 @@ public class PixelArt {
             
             System.out.println("Project has been loaded");
             
-          File workingDir = FileUtilities.getWorkingDir();
+            File workingDir = FileUtilities.getWorkingDir();
          
             File guiConfigurationFile = new File(workingDir, "gui.config");
             GuiConfiguration guiConfiguration = new GuiConfiguration(guiConfigurationFile);

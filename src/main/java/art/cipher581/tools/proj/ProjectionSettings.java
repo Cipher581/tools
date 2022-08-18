@@ -1,6 +1,8 @@
 package art.cipher581.tools.proj;
 
+import java.awt.Color;
 import java.io.File;
+import java.util.LinkedList;
 import java.util.List;
 
 public class ProjectionSettings {
@@ -15,11 +17,21 @@ public class ProjectionSettings {
 
 	private int height;
 
+	private boolean keepRatio = true;
+
 	private int posX;
 
 	private int posY;
-	
-	private IChangeListener changeListener;
+
+	private List<IChangeListener> changeListeners = new LinkedList<>();
+
+	private Color selectedColor;
+
+	private double colorDistance = 0.1;
+
+	private boolean showSelectedColorOnly;
+
+	private boolean invertColors;
 
 	public File getImageDir() {
 		return imageDir;
@@ -56,9 +68,19 @@ public class ProjectionSettings {
 	}
 
 	public void setWidth(int width) {
-		this.width = width;
-		
-		notifySettingChange();
+		System.out.println("setWidth(" + width + ")");
+
+		if (width != this.width) {
+			if (keepRatio) {
+				double ratio = ((double) this.height) / ((double) this.width);
+
+				this.height = (int) (ratio * width);
+			}
+
+			this.width = width;
+
+			notifySettingChange();
+		}
 	}
 
 	public int getHeight() {
@@ -66,9 +88,23 @@ public class ProjectionSettings {
 	}
 
 	public void setHeight(int height) {
-		this.height = height;
-		
-		notifySettingChange();
+		System.out.println("setHeight(" + height + ")");
+
+		if (height != this.height) {
+			if (keepRatio) {
+				double ratio = ((double) this.width) / ((double) this.height);
+
+				this.width = (int) (ratio * height);
+			}
+
+			this.height = height;
+
+			notifySettingChange();
+		}
+	}
+
+	public void setKeepRatio(boolean keepRatio) {
+		this.keepRatio = keepRatio;
 	}
 
 	public int getPosX() {
@@ -77,7 +113,7 @@ public class ProjectionSettings {
 
 	public void setPosX(int posX) {
 		this.posX = posX;
-		
+
 		notifySettingChange();
 	}
 
@@ -87,33 +123,81 @@ public class ProjectionSettings {
 
 	public void setPosY(int posY) {
 		this.posY = posY;
-		
+
 		notifySettingChange();
 	}
 
-	public void setChangeListener(IChangeListener changeListener) {
-		this.changeListener = changeListener;
+	public void addChangeListener(IChangeListener changeListener) {
+		this.changeListeners.add(changeListener);
 	}
-	
+
 	private void notifySettingChange() {
-		if (changeListener != null) {
-			changeListener.settingsChanged();
+		if (!changeListeners.isEmpty()) {
+			for (IChangeListener changeListener : changeListeners) {
+				changeListener.settingsChanged();
+			}
 		}
 	}
-	
+
 	private void notifyImageChange() {
-		if (changeListener != null) {
-			changeListener.imageChanged();
+		if (!changeListeners.isEmpty()) {
+			for (IChangeListener changeListener : changeListeners) {
+				changeListener.imageChanged();
+			}
 		}
 	}
-	
-	
+
 	public static interface IChangeListener {
-		
+
 		public void settingsChanged();
-		
+
 		public void imageChanged();
 
+	}
+
+	public void setSize(int width, int height) {
+		this.width = width;
+		this.height = height;
+	}
+
+	public Color getSelectedColor() {
+		return selectedColor;
+	}
+
+	public void setSelectedColor(Color selectedColor) {
+		this.selectedColor = selectedColor;
+
+		notifySettingChange();
+	}
+
+	public double getColorDistance() {
+		return colorDistance;
+	}
+
+	public void setColorDistance(double colorDistance) {
+		this.colorDistance = colorDistance;
+
+		notifySettingChange();
+	}
+
+	public boolean isShowSelectedColorOnly() {
+		return showSelectedColorOnly;
+	}
+
+	public void setShowSelectedColorOnly(boolean showSelectedColorOnly) {
+		this.showSelectedColorOnly = showSelectedColorOnly;
+
+		notifySettingChange();
+	}
+
+	public boolean isInvertColors() {
+		return invertColors;
+	}
+
+	public void setInvertColors(boolean invertColors) {
+		this.invertColors = invertColors;
+
+		notifySettingChange();
 	}
 
 }

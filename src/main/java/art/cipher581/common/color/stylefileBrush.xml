@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ColorSet name="Stylefile Marker Brush">
+	<Color product="Stylefile Marker Brush" name="Cream" code="SFBR112" color="#F9E5BC" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Brown Grey" code="SFBR114" color="#EED4A2" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Walnut" code="SFBR116" color="#C7AA77" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Yellow Orche" code="SFBR118" color="#D7B076" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Barium Yellow" code="SFBR152" color="#FFF6B1" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Canaria Yellow" code="SFBR154" color="#FAF29B" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pastel Yellow" code="SFBR156" color="#FFE97C" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Yellow" code="SFBR158" color="#FDD16A" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Olive Yellow" code="SFBR160" color="#E1C060" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Dark Yellow" code="SFBR162" color="#E3B759" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Lemon Yellow" code="SFBR164" color="#FFDD5C" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Melon Yellow" code="SFBR166" color="#FCCA4E" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Sunflower" code="SFBR168" color="#FED62F" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Deep Yellow" code="SFBR170" color="#FCC328" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Marigold" code="SFBR172" color="#F8B12D" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Salmon Pink" code="SFBR202" color="#FDDDBC" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Rose Beige" code="SFBR206" color="#F9C6A6" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Potatao Brown" code="SFBR210" color="#E9A870" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Terra Cotta" code="SFBR212" color="#E18051" active="true"/>
+	<Color product="Stylefile Marker Brush" name="French Vermilion" code="SFBR214" color="#ED7A34" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Orange" code="SFBR216" color="#F08700" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pastel Peach" code="SFBR300" color="#FEF7EF" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Barely Beige" code="SFBR304" color="#FEF4EC" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Powder Pink" code="SFBR306" color="#FDE7DF" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Fruit Pink" code="SFBR312" color="#F9D3D0" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pale Pink" code="SFBR314" color="#F7C6CE" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pastel Rose" code="SFBR316" color="#F3A8AD" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Coral Pink" code="SFBR350" color="#F08D7F" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Scarlet" code="SFBR352" color="#EC7374" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Vivid Red" code="SFBR354" color="#EA657B" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cherry Pink" code="SFBR356" color="#E65D86" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Coral Red" code="SFBR358" color="#E96167" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Vermilion" code="SFBR360" color="#E95A50" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Carmine" code="SFBR362" color="#E43D4C" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Deep Red" code="SFBR364" color="#E13C60" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Rose Red" code="SFBR366" color="#DE3271" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Geranium" code="SFBR368" color="#AB0F29" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Old Red" code="SFBR370" color="#C43B6A" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Wine Red" code="SFBR372" color="#AE3D63" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Dark Violet Light" code="SFBR414" color="#D9D2E7" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pale Blue Violet" code="SFBR416" color="#EDE0ED" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pastel Pink" code="SFBR420" color="#F4D1E2" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pastel Violet" code="SFBR426" color="#E0C6DD" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Lavender" code="SFBR428" color="#DEC7DF" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pale Purple" code="SFBR450" color="#F4C6DB" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Rose Pink" code="SFBR452" color="#F4B0CA" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cerise" code="SFBR454" color="#F1B8D2" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Vivid Pink" code="SFBR456" color="#E03188" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Vivid Reddish Purple" code="SFBR458" color="#E2007A" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Azalea Purple" code="SFBR460" color="#D3007B" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Vivid Purple" code="SFBR462" color="#C5007B" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Light Violet" code="SFBR464" color="#B62F88" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Deep Violet" code="SFBR466" color="#A5037C" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Sky Blue" code="SFBR510" color="#BAD4EC" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Marine Blue" code="SFBR512" color="#6896AC" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pastel Blue" code="SFBR514" color="#AEDBEB" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Baby Blue" code="SFBR516" color="#8DCBE1" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cerulean Blue" code="SFBR518" color="#85C8D8" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Prussian Blue" code="SFBR522" color="#5C7FB0" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Brilliant Blue" code="SFBR550" color="#5A8EC5" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cobalt Blue" code="SFBR552" color="#3E76B6" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Napoleon Blue" code="SFBR554" color="#0955A0" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Ultramarine" code="SFBR556" color="#172983" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Royal Blue" code="SFBR558" color="#2090CB" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Indian Blue" code="SFBR560" color="#008CC1" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Ice Blue" code="SFBR562" color="#32BBD4" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Turquoise Blue" code="SFBR600" color="#C9E6E3" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Dark Green" code="SFBR602" color="#418C80" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Forest Green" code="SFBR604" color="#229797" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Turquoise Green Light" code="SFBR606" color="#76C5BD" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Mint Green Light" code="SFBR608" color="#4DB9AB" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Peacock Green" code="SFBR610" color="#12A8B0" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Deep Olive Green" code="SFBR632" color="#79A573" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Mint Green" code="SFBR640" color="#63BA99" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Emerald Green" code="SFBR642" color="#009C70" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Viridian" code="SFBR644" color="#399C7C" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Turquoise Green" code="SFBR646" color="#048C77" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Deep Green" code="SFBR648" color="#077C66" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Vivid Green" code="SFBR652" color="#7FBF81" active="true"/>
+	<Color product="Stylefile Marker Brush" name="yellow green" code="SFBR666" color="#EBE87E" active="true"/>
+	<Color product="Stylefile Marker Brush" name="bronze green" code="SFBR668" color="#96A350" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Pale Green" code="SFBR670" color="#CEE1AA" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Grass Green" code="SFBR672" color="#9EC770" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Bronze" code="SFBR802" color="#947B60" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Chocolate" code="SFBR804" color="#937365" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Chestnut Brown" code="SFBR806" color="#7C6055" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Mahogany" code="SFBR808" color="#CC9982" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Brick Brown" code="SFBR810" color="#C36B59" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Burnt Orange" code="SFBR814" color="#AE6736" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Natural Oak" code="SFBR816" color="#A85A3E" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Black" code="SFBR900" color="#242425" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 0" code="SFBRCG0" color="#E9F1F6" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 1" code="SFBRCG1" color="#DBE8F4" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 2" code="SFBRCG2" color="#D1E5F4" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 3" code="SFBRCG3" color="#C2D5E1" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 4" code="SFBRCG4" color="#A7B8CC" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 5" code="SFBRCG5" color="#8F9EB2" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 6" code="SFBRCG6" color="#75859A" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 7" code="SFBRCG7" color="#596982" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 8" code="SFBRCG8" color="#354B69" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Cool Grey 9" code="SFBRCG9" color="#052A4D" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 0" code="SFBRNG0" color="#F4F7F6" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 1" code="SFBRNG1" color="#EEEFEF" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 2" code="SFBRNG2" color="#E5E8E9" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 3" code="SFBRNG3" color="#C9CDCC" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 4" code="SFBRNG4" color="#B1B6B6" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 5" code="SFBRNG5" color="#989A9C" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 6" code="SFBRNG6" color="#808285" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 7" code="SFBRNG7" color="#676467" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 8" code="SFBRNG8" color="#4F5358" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Neutral grey 9" code="SFBRNG9" color="#283139" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 1" code="SFBRWG1" color="#F2E7E0" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 2" code="SFBRWG2" color="#E1D9D3" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 3" code="SFBRWG3" color="#D4CBC5" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 4" code="SFBRWG4" color="#D4CBC5" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 5" code="SFBRWG5" color="#AFAAA3" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 6" code="SFBRWG6" color="#9A928E" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 7" code="SFBRWG7" color="#847B77" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 8" code="SFBRWG8" color="#6D625F" active="true"/>
+	<Color product="Stylefile Marker Brush" name="Warm Grey 9" code="SFBRWG9" color="#524846" active="true"/>
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 0" code="SFBRCG0" color="#E9F1F6" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 1" code="SFBRCG1" color="#DBE8F4" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 2" code="SFBRCG2" color="#D1E5F4" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 3" code="SFBRCG3" color="#C2D5E1" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 4" code="SFBRCG4" color="#A7B8CC" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 5" code="SFBRCG5" color="#8F9EB2" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 6" code="SFBRCG6" color="#75859A" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 7" code="SFBRCG7" color="#596982" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 8" code="SFBRCG8" color="#354B69" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Cool Grey 9" code="SFBRCG9" color="#052A4D" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 0" code="SFBRNG0" color="#F4F7F6" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 1" code="SFBRNG1" color="#EEEFEF" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 2" code="SFBRNG2" color="#E5E8E9" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 3" code="SFBRNG3" color="#C9CDCC" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 4" code="SFBRNG4" color="#B1B6B6" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 5" code="SFBRNG5" color="#989A9C" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 6" code="SFBRNG6" color="#808285" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 7" code="SFBRNG7" color="#676467" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 8" code="SFBRNG8" color="#4F5358" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Neutral grey 9" code="SFBRNG9" color="#283139" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 1" code="SFBRWG1" color="#F2E7E0" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 2" code="SFBRWG2" color="#E1D9D3" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 3" code="SFBRWG3" color="#D4CBC5" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 4" code="SFBRWG4" color="#D4CBC5" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 5" code="SFBRWG5" color="#AFAAA3" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 6" code="SFBRWG6" color="#9A928E" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 7" code="SFBRWG7" color="#847B77" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 8" code="SFBRWG8" color="#6D625F" active="false"/> -->
+<!-- 	<Color product="Stylefile Marker Brush" name="Warm Grey 9" code="SFBRWG9" color="#524846" active="false"/> -->
+</ColorSet>

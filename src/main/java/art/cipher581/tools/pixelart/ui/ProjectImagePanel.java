@@ -16,7 +16,12 @@ import art.cipher581.tools.pixelart.core.Project;
 
 public class ProjectImagePanel extends JPanel {
 
-    private BufferedImage image;
+    /**
+	 * SVUID
+	 */
+	private static final long serialVersionUID = -8513514202953324233L;
+
+	private BufferedImage image;
 
     private ImagePanel imagePanel;
 
